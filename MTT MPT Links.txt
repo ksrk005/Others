@@ -1,0 +1,8 @@
+1. MTT and Daily Quiz 
+https://icompass.fs.capgemini.com/iCompass/#/
+
+* For Daily Quizes (DQs) refer PDF from the following location
+	Extra Activities -> DQ -> Daily Quizzes Registration Guidelines for Participants.pdf
+
+2. To Upload your assignments, MPT solutions
+http://ndafile:8081/iUpload
